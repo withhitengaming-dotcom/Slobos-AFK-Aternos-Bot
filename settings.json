@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Classonly.aternos.me",
-    "port": 52048,
+    "ip": "justForFunnnn.aternos.me",
+    "port": 49795,
     "version": "1.21.10",
     "try-creative": false
   },
@@ -77,8 +77,8 @@
     "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
     "events": {
       "connect": true,
-      "disconnect": true,
-      "chat": false
+      "disconnect": false,
+      "chat": true
     }
   },
   "chat": {
